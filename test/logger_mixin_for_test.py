@@ -8,7 +8,6 @@ from async_timeout import timeout
 
 from hummingbot.logger import HummingbotLogger
 
-
 class LogLevel:
     NOTSET = 0
     DEBUG = 10
